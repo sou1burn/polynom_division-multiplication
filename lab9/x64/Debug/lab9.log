@@ -1,0 +1,5 @@
+﻿  lab_09_01.cpp
+C:\Users\spike\source\repos\main_09\lab_09_01.cpp(28,34): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  main_09.cpp
+  Создание кода...
+  lab9.vcxproj -> C:\Users\spike\source\repos\lab9\x64\Debug\lab9.exe
